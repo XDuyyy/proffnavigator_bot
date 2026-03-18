@@ -31,7 +31,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 # КОНФИГУРАЦИЯ И КОНСТАНТЫ
 # =========================
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "ююююю")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "ТОКЕН")
 DB_PATH = "proforientation.db"
 CHARTS_DIR = "charts"
 CONFIG_PATH = "config.json"
